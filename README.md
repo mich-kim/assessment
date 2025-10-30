@@ -1,6 +1,6 @@
 # Trading application
 
-This project is a mini trading application in Python that simulates simple cryptocurrency trading strategies for Bitcoin (BTC) and Ethereum (ETH). The focus is on strategy logic, trade logging, and performance reporting rather than live trading. All code is contained in the file trading_application.ipynb. For further elaboration and documentation, see [Notion](https://www.notion.so/Trading-application-documentation-299f65869f078002854cf3458a37b190?source=copy_link](https://fishy-tamarillo-2ea.notion.site/Trading-application-documentation-299f65869f078002854cf3458a37b190?source=copy_link).
+This project is a mini trading application in Python that simulates simple cryptocurrency trading strategies for Bitcoin (BTC) and Ethereum (ETH). The focus is on strategy logic, trade logging, and performance reporting rather than live trading. All code is contained in the file trading_application.ipynb. For further elaboration and documentation, see [Notion][(https://www.notion.so/Trading-application-documentation-299f65869f078002854cf3458a37b190?source=copy_link](https://fishy-tamarillo-2ea.notion.site/Trading-application-documentation-299f65869f078002854cf3458a37b190?source=copy_link)](https://www.notion.so/Trading-application-documentation-299f65869f078002854cf3458a37b190?source=copy_link).
 
 ## Functions
 - Collect historical BTC and ETH price data from Yahoo Finance
